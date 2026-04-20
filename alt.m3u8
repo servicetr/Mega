@@ -34,13 +34,13 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7f3f6c3695b0ce9dd23d7e954ed2157
 https://stream41.radyotelekom.com.tr/stream/m3u8/0e161dc6d7c350235b9e664165cc634e/0e161dc6d7c350235b9e664165cc634e.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",31. Teber Star 1
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar1.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShCiC.png",33. Teber Star 3
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar3.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar3/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",36. Deniz 6 
-https://boztv.koprulu2.workers.dev/teberstar6.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",37. Kuzey Max HD
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
@@ -50,6 +50,12 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/10.png",46. Now TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/6.png",48. TV 8
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=849fxsl3j2gc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",49. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
