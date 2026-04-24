@@ -42,12 +42,6 @@ https://tebermedya.nextstream.workers.dev/teberstar3/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",36. Deniz 6 
 https://tebermedya.nextstream.workers.dev/teberstar6/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",37. Kuzey Max HD
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",38. Süper Türk
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
