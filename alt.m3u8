@@ -24,23 +24,14 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/da56e1f3ba4560afc483fae120d5e9a
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",24. Vizon Show 
 https://stream41.radyotelekom.com.tr/stream/m3u8/68cc1315833137acd1f69e84646e3698/68cc1315833137acd1f69e84646e3698.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/26/CNq7WT.png",25. Star Movies
-https://stream41.radyotelekom.com.tr/stream/m3u8/d13a88a095cbd13ab7c9894309d8097e/d13a88a095cbd13ab7c9894309d8097e.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/26/CNq7WT.png",26. Star Movies
+https://stream41.radyotelekom.com.tr/stream/m3u8/375f8dc579e61263de3f236727ccaca7/375f8dc579e61263de3f236727ccaca7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/26/CNqVkh.png",27. Star Dramas
 https://stream41.radyotelekom.com.tr/stream/m3u8/7f3f6c3695b0ce9dd23d7e954ed21572/7f3f6c3695b0ce9dd23d7e954ed21572.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/26/CNqI03.png",28. Star Novelas
 https://stream41.radyotelekom.com.tr/stream/m3u8/0e161dc6d7c350235b9e664165cc634e/0e161dc6d7c350235b9e664165cc634e.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",31. Teber Star 1
-https://tebermedya.nextstream.workers.dev/teberstar1/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShCiC.png",33. Teber Star 3
-https://tebermedya.nextstream.workers.dev/teberstar3/playlist.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",36. Deniz 6 
-https://tebermedya.nextstream.workers.dev/teberstar6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
