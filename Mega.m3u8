@@ -18,9 +18,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/2b1ec308d5f884dc128138d3cdda25d
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XHBURfxTO.png",7. Vizon Türk 
 https://stream41.radyotelekom.com.tr/stream/m3u8/d04e41493b6368e296c096f49278ad5c/d04e41493b6368e296c096f49278ad5c.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",10. Cine 6
-https://stream41.radyotelekom.com.tr/stream/m3u8/cf9baebfc63f44e717b29cfede3f3226/cf9baebfc63f44e717b29cfede3f3226.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/tcMxFslvqXZ_.png",11. Cine 6 Aksiyon
 https://stream41.radyotelekom.com.tr/stream/m3u8/bbdabcf2ec8c364727f663d71e2c47e1/bbdabcf2ec8c364727f663d71e2c47e1.m3u8
 
@@ -99,8 +96,8 @@ https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=849fxsl3j2gc&app=7ddc255a-ef47-4
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",49. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/31/Cjgi2T.png",50. Medya 6
-https://stream41.radyotelekom.com.tr/stream/m3u8/13d6db3ace5c3a270b98a6b87c9126b0/13d6db3ace5c3a270b98a6b87c9126b0.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",50. Cine 6
+https://stream41.radyotelekom.com.tr/stream/m3u8/27d01f239577494bfdf90df48e1da2d0/27d01f239577494bfdf90df48e1da2d0.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",53. 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
