@@ -76,10 +76,22 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblmnF.png",33. Süpertürk Film
-http://75.119.144.48/SuperTURK_elitvipstream_CH/index.m3u8
+http://75.119.144.48/SUPERTurk_Film1_CH/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",34. Süpertürk Vizyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbDkb.png",34. Süpertürk Film 2
+http://75.119.144.48/SUPERTurk_Film_2_CH/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",34. Süpertürk Gold
+http://75.119.144.48/SUPERTurk_Gold_1_Ch/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbTa6.png",34. Süpertürk Gold 2
+http://75.119.144.48/SUPERTurk_Gold_2_ch/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",37. Süpertürk Vizyon
 http://75.119.144.48/SUPERTURK_vizyonTV_CH/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbCJx.png",39. Kuzeymax HD
+http://75.119.144.48/KuzeyMAXTV_elitvipCH_Stream/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
