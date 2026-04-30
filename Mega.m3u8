@@ -81,14 +81,17 @@ http://75.119.144.48/SUPERTurk_Film1_CH/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbDkb.png",34. Süpertürk Film 2
 http://75.119.144.48/SUPERTurk_Film_2_CH/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",34. Süpertürk Gold
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",35. Süpertürk Gold
 http://75.119.144.48/SUPERTurk_Gold_1_Ch/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbTa6.png",34. Süpertürk Gold 2
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbTa6.png",36. Süpertürk Gold 2
 http://75.119.144.48/SUPERTurk_Gold_2_ch/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",37. Süpertürk Vizyon
 http://75.119.144.48/SUPERTURK_vizyonTV_CH/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbOUMG.png",38. Süpertürk Dizi
+http://75.119.144.48/SUPERTURKHD_dizitv/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbCJx.png",39. Kuzeymax HD
 http://75.119.144.48/KuzeyMAXTV_elitvipCH_Stream/index.m3u8
@@ -228,8 +231,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd8763
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXUpIb.png",110. STV 
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/30/CXqwzo.png",111. TV 36
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",112. Deniz TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",125. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/fe07811ca7ecd3ba2b7279a9424407f9/fe07811ca7ecd3ba2b7279a9424407f9.m3u8
