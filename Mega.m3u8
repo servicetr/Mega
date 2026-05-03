@@ -219,6 +219,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK
 #EXTINF:-1 group-title="Spor" tvg-logo="http://epg.one/img2/4537.png", 96. Sport Klub 2 HD 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7270/index.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/05/03/Ce2dWy.png", 99. Max Sport 1 HD
+http://169.150.255.53/MaxSport1HR/index.m3u8
+
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
