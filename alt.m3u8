@@ -85,7 +85,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",57. Teleon TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/bb0443304964dd94b253b1e283e53ab9/bb0443304964dd94b253b1e283e53ab9.m3u8
+http://teleontv-kick.streams-supersatforum.workers.dev/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
 https://stream41.radyotelekom.com.tr/stream/m3u8/46a9ff50e15fd0624cfba46f90cce30f/46a9ff50e15fd0624cfba46f90cce30f.m3u8
