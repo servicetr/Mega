@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png,1. Vizon TV 
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png",1. Vizon TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/4bfffff0822a6e371c04d1ec3d33ffc7/4bfffff0822a6e371c04d1ec3d33ffc7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NV5e_3Rc.png",2. Vizon 4K
@@ -85,7 +85,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",57. Teleon TV
-https://live.tecostream.xyz/teleon.php/.m3u8
+https://live.tecostream.xyz/teleon.php/&m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
 https://stream41.radyotelekom.com.tr/stream/m3u8/46a9ff50e15fd0624cfba46f90cce30f/46a9ff50e15fd0624cfba46f90cce30f.m3u8
@@ -144,7 +144,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/v0TwQ1es.png",82. Arena Sport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7264/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png,83. Arena Sport 3
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png",83. Arena Sport 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7265/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TOLcI7kmuGr4.png",84. Arena Sport 4
