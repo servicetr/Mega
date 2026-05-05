@@ -1,10 +1,103 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png",1. Vizon TV 
+https://stream41.radyotelekom.com.tr/stream/m3u8/4bfffff0822a6e371c04d1ec3d33ffc7/4bfffff0822a6e371c04d1ec3d33ffc7.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NV5e_3Rc.png",2. Vizon 4K
+https://stream41.radyotelekom.com.tr/stream/m3u8/d93c5f7dd103eb602ae65789973b2f03/d93c5f7dd103eb602ae65789973b2f03.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/f95ylrdAmQ.png",3. Vizon Prime
+https://stream41.radyotelekom.com.tr/stream/m3u8/1a1c23d6e3f8a72b1290645f7b90be47/1a1c23d6e3f8a72b1290645f7b90be47.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/emg4sd.png",4. Vizon Action
+https://stream41.radyotelekom.com.tr/stream/m3u8/a4ef12578bf1d24003c823fac057f7d6/a4ef12578bf1d24003c823fac057f7d6.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbHyaKQ03q.png",5. Vizon Gold
+https://stream41.radyotelekom.com.tr/stream/m3u8/1e5b9f8de8cb31a97f7f0858d2d533df/1e5b9f8de8cb31a97f7f0858d2d533df.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/01/wqwKZ2.png",6. Vizon Komedi
+https://stream41.radyotelekom.com.tr/stream/m3u8/5614a6266da2dfd1181ae6f2d96b7e55/5614a6266da2dfd1181ae6f2d96b7e55.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XHBURfxTO.png",7. Vizon Türk 
+https://stream41.radyotelekom.com.tr/stream/m3u8/d04e41493b6368e296c096f49278ad5c/d04e41493b6368e296c096f49278ad5c.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",11. Cine 6 Premier
+https://stream41.radyotelekom.com.tr/stream/m3u8/a003cd1f229b84dde17cd5b80ee84fed/a003cd1f229b84dde17cd5b80ee84fed.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNQX6.png",12. Moviebox Action
+https://stream41.radyotelekom.com.tr/stream/m3u8/e85064201e5a25b529512281a7ad9c83/e85064201e5a25b529512281a7ad9c83.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNtib.png",13. Moviebox Platin
+https://stream41.radyotelekom.com.tr/stream/m3u8/49f3d6ebad1d293654a164879c53ba99/49f3d6ebad1d293654a164879c53ba99.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNxaZ.png",14. Moviebox Vizyon
+https://stream41.radyotelekom.com.tr/stream/m3u8/04b0a9aaa371c6774e5bf1e6c0b822f4/04b0a9aaa371c6774e5bf1e6c0b822f4.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNVy8.png",15. Moviebox Stars
+https://stream41.radyotelekom.com.tr/stream/m3u8/51e5fbe69a9591e0def100499642ba16/51e5fbe69a9591e0def100499642ba16.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNAKk.png",16. Moviebox Yerli
+https://stream41.radyotelekom.com.tr/stream/m3u8/02e11da2713ed7454f69a044a4c1732c/02e11da2713ed7454f69a044a4c1732c.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNBqQ.png",17. Beyazperde
+https://stream41.radyotelekom.com.tr/stream/m3u8/d4166308cbb2d128d3d08f7608d0a2e7/d4166308cbb2d128d3d08f7608d0a2e7.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUvKSq.png",18. Fil TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/f21571417736f076e30639fc06fe7bdf/f21571417736f076e30639fc06fe7bdf.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DIHrxMFfoTJ4.png",19. DiziBox
+https://stream41.radyotelekom.com.tr/stream/m3u8/a6bc8610f98f6b0febcb1539ed1bb83e/a6bc8610f98f6b0febcb1539ed1bb83e.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/01/wqZXSI.png",20. Dizi TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/2cb4cca251ab25720909ad6ee4de8e42/2cb4cca251ab25720909ad6ee4de8e42.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/orwl2u.png",21. Vizon Dizi
+https://stream41.radyotelekom.com.tr/stream/m3u8/da56e1f3ba4560afc483fae120d5e9a6/da56e1f3ba4560afc483fae120d5e9a6.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",22. Vizon Show 
+https://stream41.radyotelekom.com.tr/stream/m3u8/68cc1315833137acd1f69e84646e3698/68cc1315833137acd1f69e84646e3698.m3u8
+
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",23. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",24. Cine 5 HD
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd8Fk.png",25. Star Series
+https://stream41.radyotelekom.com.tr/stream/m3u8/0951d70129bd8d4226c80c780cdc504f/0951d70129bd8d4226c80c780cdc504f.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdwPI.png",26. Star Movies
+https://stream41.radyotelekom.com.tr/stream/m3u8/375f8dc579e61263de3f236727ccaca7/375f8dc579e61263de3f236727ccaca7.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdDtj.png",28. Star Horror
+https://stream41.radyotelekom.com.tr/stream/m3u8/df001401055ea46b324020c1c8f2c00a/df001401055ea46b324020c1c8f2c00a.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdlM8.png",29. Star Dramas
+https://stream41.radyotelekom.com.tr/stream/m3u8/353f9f9dff92eb3ae6ef592bf0210394/353f9f9dff92eb3ae6ef592bf0210394.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",32. Süper Türk
+https://stream41.radyotelekom.com.tr/stream/m3u8/4296cc09cb676a19d659ce938b4ab585/4296cc09cb676a19d659ce938b4ab585.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblmnF.png",33. Süpertürk Film
+https://stream41.radyotelekom.com.tr/stream/m3u8/fb08ad92af5b209ec9d6ceef7ffa1b35/fb08ad92af5b209ec9d6ceef7ffa1b35.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbDkb.png",34. Süpertürk Film 2
+https://stream41.radyotelekom.com.tr/stream/m3u8/1c5a9e45178b00d3e8fdbfb500287894/1c5a9e45178b00d3e8fdbfb500287894.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",35. Süpertürk Gold
+https://stream41.radyotelekom.com.tr/stream/m3u8/b019181a8ec4384ef61af3b2391febd9/b019181a8ec4384ef61af3b2391febd9.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbTa6.png",36. Süpertürk Gold 2
+https://stream41.radyotelekom.com.tr/stream/m3u8/653ba27c1cbfce9040432ad9182faac2/653ba27c1cbfce9040432ad9182faac2.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",37. Süpertürk Vizyon
+https://stream41.radyotelekom.com.tr/stream/m3u8/c26eaf1e8950ebb385111feecd806d49/c26eaf1e8950ebb385111feecd806d49.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbOUMG.png",38. Süpertürk Dizi
+https://stream41.radyotelekom.com.tr/stream/m3u8/008dcfe7280e50af030a4bec86206d36/008dcfe7280e50af030a4bec86206d36.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbCJx.png",39. Kuzeymax HD
+https://stream41.radyotelekom.com.tr/stream/m3u8/98ebde2313b3d5828b861eb4c165a463/98ebde2313b3d5828b861eb4c165a463.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -21,6 +114,9 @@ https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=849fxsl3j2gc&app=7ddc255a-ef47-4
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",49. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",50. Cine 6
+https://stream41.radyotelekom.com.tr/stream/m3u8/27d01f239577494bfdf90df48e1da2d0/27d01f239577494bfdf90df48e1da2d0.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",53. 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
@@ -35,6 +131,12 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",57. Teleon TV
 http://teleontv-kick.streams-supersatforum.workers.dev/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
+https://stream41.radyotelekom.com.tr/stream/m3u8/46a9ff50e15fd0624cfba46f90cce30f/46a9ff50e15fd0624cfba46f90cce30f.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
+https://stream41.radyotelekom.com.tr/stream/m3u8/8eaa3c3f5cf8e79053fb5eca294b4077/8eaa3c3f5cf8e79053fb5eca294b4077.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvtYZ.png",63. TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
@@ -72,6 +174,12 @@ https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",76. Cem TV 
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/La1B7Mjw.png",77. Vizon Spor
+https://stream41.radyotelekom.com.tr/stream/m3u8/a53e2707241e016f985cf141674a9c0f/a53e2707241e016f985cf141674a9c0f.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/04/CC3mEc.png",78. Maraton TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/ceafea2ee37dc725fa450315e7bc98fc/ceafea2ee37dc725fa450315e7bc98fc.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/2193/index.m3u8
 
@@ -105,6 +213,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",91. TR Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/30/CbgnFL.png",92. Star Sports
+https://stream41.radyotelekom.com.tr/stream/m3u8/32428442c0fc31e0d147d90ced5a30a0/32428442c0fc31e0d147d90ced5a30a0.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",94. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
@@ -125,6 +236,27 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/4.png",104. TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8a18hjxo3br1&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",108. Şaban TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXUpIb.png",110. STV 
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",112. Deniz TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",125. Vizon Wild
+https://stream41.radyotelekom.com.tr/stream/m3u8/fe07811ca7ecd3ba2b7279a9424407f9/fe07811ca7ecd3ba2b7279a9424407f9.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/01/wUvvf3.png",126. DocuBox
+https://stream41.radyotelekom.com.tr/stream/m3u8/fbfc5826b55da5fcc6dc16c175feae04/fbfc5826b55da5fcc6dc16c175feae04.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdRxW.png",127. Star Wilds
+https://stream41.radyotelekom.com.tr/stream/m3u8/7c24f8347ee9d0fad9291fc8ff9ac1aa/7c24f8347ee9d0fad9291fc8ff9ac1aa.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/duzSTkO83WX.png",130. Viasat Nature
 http://87.246.54.249:8080/ViasatNature/index.m3u8
@@ -222,11 +354,17 @@ https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/HZcXhVOy.png",300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd332.png",302. Star Cartoons
+https://stream41.radyotelekom.com.tr/stream/m3u8/e38e1aa61d9f3e228aabdef202756af6/e38e1aa61d9f3e228aabdef202756af6.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",310. Baby First
 https://catcast.ismailturret.workers.dev/50879.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/35bOcIDi6m.png",320. Vizon Müzik
+https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",322. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
@@ -311,3 +449,6 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-9.png",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/17/C3O0w3.png",901. Test
+https://stream41.radyotelekom.com.tr/stream/m3u8/0f4b888a5cdc3007ff3279903c94891c/0f4b888a5cdc3007ff3279903c94891c.m3u8
