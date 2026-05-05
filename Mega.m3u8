@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png,1. Vizon TV 
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png",1. Vizon TV 
 https://stream41.radyotelekom.com.tr/stream/m3u8/4bfffff0822a6e371c04d1ec3d33ffc7/4bfffff0822a6e371c04d1ec3d33ffc7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NV5e_3Rc.png",2. Vizon 4K
@@ -192,7 +192,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/v0TwQ1es.png",82. Arena Sport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7264/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png,83. Arena Sport 3
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png",83. Arena Sport 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7265/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TOLcI7kmuGr4.png",84. Arena Sport 4
@@ -445,7 +445,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NRLXRWSBWBPLN4/966/index
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2560px-Rai_1_HD_Logo.svg.png",560. Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/events(1000)/RAI1-video=5000000.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",561. Rai World Premium
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/05/05/CoLRFF.png,561. Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
