@@ -45,6 +45,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/df001401055ea46b324020c1c8f2c00
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdlM8.png",29. Star Dramas
 https://stream41.radyotelekom.com.tr/stream/m3u8/353f9f9dff92eb3ae6ef592bf0210394/353f9f9dff92eb3ae6ef592bf0210394.m3u8
 
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",30. Süper Türk
+https://stream41.radyotelekom.com.tr/stream/m3u8/647280c15478e8966ce6fe0b4cdcda6d/647280c15478e8966ce6fe0b4cdcda6d.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
