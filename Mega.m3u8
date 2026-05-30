@@ -75,8 +75,23 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/44fe1256f021f3c00be893b330d68fd
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdlM8.png",29. Star Dramas
 https://stream41.radyotelekom.com.tr/stream/m3u8/2ed01d9231959cef2c1df32eac099aee/2ed01d9231959cef2c1df32eac099aee.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",30. Süper Türk
-https://stream41.radyotelekom.com.tr/stream/m3u8/647280c15478e8966ce6fe0b4cdcda6d/647280c15478e8966ce6fe0b4cdcda6d.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblmnF.png",33. Süpertürk Film
+https://stream41.radyotelekom.com.tr/stream/m3u8/1ee1ed95d4b9580fca6fd9b397c6061e/1ee1ed95d4b9580fca6fd9b397c6061e.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbDkb.png",34. Süpertürk Film 2
+https://stream41.radyotelekom.com.tr/stream/m3u8/5410fb6d5d64fa2383f349b44a24f21d/5410fb6d5d64fa2383f349b44a24f21d.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",35. Süpertürk Gold
+https://stream41.radyotelekom.com.tr/stream/m3u8/bb2e0177edffa869ec7f2dc24f997d72/bb2e0177edffa869ec7f2dc24f997d72.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbTa6.png",36. Süpertürk Gold 2
+https://stream41.radyotelekom.com.tr/stream/m3u8/bfd14e4061a82ba9b11684e6a3f24420/bfd14e4061a82ba9b11684e6a3f24420.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",37. Süpertürk Vizyon
+https://stream41.radyotelekom.com.tr/stream/m3u8/1ad53c3f0e6c368a4ceaca82e658c94c/1ad53c3f0e6c368a4ceaca82e658c94c.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbCJx.png",38. Kuzeymax HD
+https://stream41.radyotelekom.com.tr/stream/m3u8/31689491e81819c386557fabfcd8aaeb/31689491e81819c386557fabfcd8aaeb.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
