@@ -262,7 +262,7 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 http://87.246.54.249:8080/ViasatNature/index.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/UpgJD.png",131. Viasat Explore
-http://87.246.54.249:8080/ViasatExplorer/index.m3u8
+http://titan.tgrpanel.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/165444.ts
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",133. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
