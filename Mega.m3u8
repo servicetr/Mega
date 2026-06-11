@@ -99,9 +99,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",39. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",40. Teleon TV
-https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdwPI.png",41. Star Movies
 https://stream41.radyotelekom.com.tr/stream/m3u8/eaf47632a1764e94d1653010c6c0856f/eaf47632a1764e94d1653010c6c0856f.m3u8
 
@@ -113,6 +110,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/2ed01d9231959cef2c1df32eac099ae
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd8Fk.png",45. Star Series
 https://stream41.radyotelekom.com.tr/stream/m3u8/6f5964553943a0825d51ccbe06734882/6f5964553943a0825d51ccbe06734882.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",46. Teleon TV
+https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
 https://stream41.radyotelekom.com.tr/stream/m3u8/46a9ff50e15fd0624cfba46f90cce30f/46a9ff50e15fd0624cfba46f90cce30f.m3u8
