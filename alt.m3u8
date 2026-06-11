@@ -63,26 +63,14 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",39. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",40. Teleon TV
-https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdlM8.png",44. Star Dramas
 https://stream41.radyotelekom.com.tr/stream/m3u8/2ed01d9231959cef2c1df32eac099aee/2ed01d9231959cef2c1df32eac099aee.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd8Fk.png",45. Star Series
 https://stream41.radyotelekom.com.tr/stream/m3u8/6f5964553943a0825d51ccbe06734882/6f5964553943a0825d51ccbe06734882.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblmnF.png",46. Süpertürk Film
-https://stream41.radyotelekom.com.tr/stream/m3u8/1ee1ed95d4b9580fca6fd9b397c6061e/1ee1ed95d4b9580fca6fd9b397c6061e.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbN4Z.png",48. Süpertürk Gold
-https://stream41.radyotelekom.com.tr/stream/m3u8/bb2e0177edffa869ec7f2dc24f997d72/bb2e0177edffa869ec7f2dc24f997d72.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/29/CblHUo.png",50. Süpertürk Vizyon
-https://stream41.radyotelekom.com.tr/stream/m3u8/1ad53c3f0e6c368a4ceaca82e658c94c/1ad53c3f0e6c368a4ceaca82e658c94c.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/30/CbbCJx.png",51. Kuzeymax HD
-https://stream41.radyotelekom.com.tr/stream/m3u8/31689491e81819c386557fabfcd8aaeb/31689491e81819c386557fabfcd8aaeb.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",46. Teleon TV
+https://1a-1791.com/live/t5qc33px/live-hls/rzg8-y49r/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
 https://stream41.radyotelekom.com.tr/stream/m3u8/46a9ff50e15fd0624cfba46f90cce30f/46a9ff50e15fd0624cfba46f90cce30f.m3u8
