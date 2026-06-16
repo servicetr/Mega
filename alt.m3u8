@@ -72,8 +72,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/dfa54c2aa70579847afee33c5629a58
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd8Fk.png",45. Star Series
 https://stream41.radyotelekom.com.tr/stream/m3u8/ee6464097e9e9ce56dee09fe077ec0df/ee6464097e9e9ce56dee09fe077ec0df.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",46. Teleon TV
-https://vsd262.okcdn.ru/cmaf/15913092713173/sig/ir6j7-IuA9s/expires/1781253295321/srcIp/37.154.52.65/urls/95.163.35.54/clientType/36/srcAg/CHROME_ANDROID/mid/14610407573461/get/CNWPnYGcqQMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCAljFiXO2j6Lg/track.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",46. Yansıma Sinema
+http://162.212.179.32/akama.../ssh101/ysmtvmedya/chunks.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
 https://live01.iha.tv/webabone/live2/chunks.m3u8
