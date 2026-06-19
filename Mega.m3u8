@@ -240,12 +240,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7c24f8347ee9d0fad9291fc8ff9ac1a
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/duzSTkO83WX.png",130. Viasat Nature
-http://87.246.54.249:8080/ViasatNature/index.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/UpgJD.png",131. Viasat Explore
-http://titan.tgrpanel.xyz:8080/live/Rustemtunctasli/FhDeR2aZx5/165444.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",133. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
@@ -339,9 +333,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd332.png",302. Star Cartoons
 https://stream41.radyotelekom.com.tr/stream/m3u8/fff76c23b77957254ac07fe5a1139bd0/fff76c23b77957254ac07fe5a1139bd0.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",310. Baby First
-https://catcast.ismailturret.workers.dev/50879.m3u8
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
 
@@ -395,9 +386,6 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mon
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",502. Biz TV
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",503. Movies Actıon
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",504. BBC Series
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
