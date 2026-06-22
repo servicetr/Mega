@@ -184,7 +184,7 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdRxW.png",127. Star Wilds
-https://stream41.radyotelekom.com.tr/stream/m3u8/7c24f8347ee9d0fad9291fc8ff9ac1aa/7c24f8347ee9d0fad9291fc8ff9ac1aa.m3u8
+http://87.121.104.29:1071/naturetimetr/stream.m3u8?token=c139431681bfae7b0837d28dff1450fc
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
