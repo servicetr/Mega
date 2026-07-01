@@ -132,13 +132,13 @@ http://162.212.179.32/akamaissh101/ssh101/teber_tv5/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mhV9O.png",46. Teber TV
 http://162.212.179.32/akamaissh101/ssh101/teber_tv2/chunks.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TEilURFztr.png",61. Star Haber 24
 https://live01.iha.tv/webabone/live2/chunks.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
 https://stream41.radyotelekom.com.tr/stream/m3u8/8eaa3c3f5cf8e79053fb5eca294b4077/8eaa3c3f5cf8e79053fb5eca294b4077.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://r.resimlink.com/TEilURFztr.png",63. TRT Haber
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvtYZ.png",63. TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvxV6.png",64. A Haber
