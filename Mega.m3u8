@@ -225,6 +225,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK
 #EXTINF:-1 group-title="Spor" tvg-logo="http://epg.one/img2/4537.png", 96. Sport Klub 2 HD 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7270/index.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/YAup0dT1emz.png", 97. Nova Sport
+https://cdn7.stgledai.org/novasport/tracks-v1a1/mono.m3u8?token=620884a81b78077f5fbcd73d2b54628ba1f4f315-211c66087b57b25bf0ff627108e99fec-1783196721-1783185921
+
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
@@ -260,6 +263,9 @@ http://162.212.179.32/akamaissh101/ssh101/teber_tv6/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/e5m6UDt.webp",129. Viasat Nature
+https://cdn10.stgledai.org/viasat_nature/tracks-v1a1/mono.m3u8?token=a432796d0df2920f046b55104a93e38e81a393ff-a47febf8120496ee2b468dcdc07c6264-1783197943-1783187143
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",133. Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -402,31 +408,37 @@ https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",340. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",500. MMN Movies
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/LMBRv-HasfAu.png",500. Star Channel
+https://cdn9.stgledai.org/fox/tracks-v1a1/mono.m3u8?token=ee6e3a2f1bbd8c7e0cc6d6621b6d7653b43f02b7-c6231d3d2b50da9d82579c25b595606e-1783197366-1783186566
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/iO-3cdGU.png",501. Star Crime
+https://cdn9.stgledai.org/fox/tracks-v1a1/mono.m3u8?token=ee6e3a2f1bbd8c7e0cc6d6621b6d7653b43f02b7-c6231d3d2b50da9d82579c25b595606e-1783197366-1783186566
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",505. MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzFZdx.png",501. BizTV Cinema
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzFZdx.png",506. BizTV Cinema
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",502. Biz TV
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",507. Biz TV
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",504. BBC Series
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",508. BBC Series
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",505. FX Movies
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",509. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",507. Show Plus
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",510. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",508. İnto Crime
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",511. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",509. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",512. İçtimal TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",510. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",513. Az TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NRLXRWSBWBPLN4/966/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2560px-Rai_1_HD_Logo.svg.png",560. Rai 1
