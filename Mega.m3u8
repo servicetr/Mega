@@ -66,24 +66,6 @@ http://nextiptv.pro:8080/yasarp/palaz07@/245
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",23. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/10.png",28. Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi.png",29. Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/6.png",30. TV 8
-https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=849fxsl3j2gc&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",31. 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/13.png",32. TV 4
-http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXwDL.png",33. Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
-
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",34. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
@@ -137,18 +119,6 @@ https://live01.iha.tv/webabone/live2/chunks.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
 https://stream41.radyotelekom.com.tr/stream/m3u8/8eaa3c3f5cf8e79053fb5eca294b4077/8eaa3c3f5cf8e79053fb5eca294b4077.m3u8
-
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvtYZ.png",63. TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvxV6.png",64. A Haber
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvO28.png",65. TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
-
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvAjF.png",68. NTV
-https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbwlRC.png",69. Tele 5
 https://stream41.radyotelekom.com.tr/stream/m3u8/4be1bc3b2b1b394d1684612e4bd49d2a/4be1bc3b2b1b394d1684612e4bd49d2a.m3u8
