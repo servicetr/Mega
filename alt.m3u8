@@ -42,15 +42,6 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXwDL.png",33. Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",34. Cine 1
-https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",35. Cine 5 HD
-http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",36. Cine 6 
-https://stream41.radyotelekom.com.tr/stream/m3u8/2089f6b156339fa154fc5ada0c0c6aba/2089f6b156339fa154fc5ada0c0c6aba.m3u8
-
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -60,23 +51,23 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",39. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/kAyb7Xr.png",44. Star Dramas
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/kAyb7Xr.png",43. Star Dramas
 https://stream41.radyotelekom.com.tr/stream/m3u8/dfc616d425869daa4a53571b612788ba/dfc616d425869daa4a53571b612788ba.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/J5DUP.png",45. Star Series
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/J5DUP.png",44. Star Series
 https://stream41.radyotelekom.com.tr/stream/m3u8/159847af7796948cd2d3d3fab941a00d/159847af7796948cd2d3d3fab941a00d.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",46. Yansıma Sinema
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",45. Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",46. Cine 5 HD
+http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",49. Cine 6 
+https://stream41.radyotelekom.com.tr/stream/m3u8/2089f6b156339fa154fc5ada0c0c6aba/2089f6b156339fa154fc5ada0c0c6aba.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",50. Yansıma Sinema
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/qr57yzb-Nalp.png",48. Cine 5 Türk
-http://162.212.179.32/akamaissh101/ssh101/cine5_turk/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/SJWVhjDYmrET.png",49. Kanal 1 TV
-http://162.212.179.32/akamaissh101/ssh101/teber_tv1/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mhV9O.png",54. Teber Star 1
-http://162.212.179.32/akamaissh101/ssh101/star1/chunks.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/FSvcasfoWLqt.png",60. TV 100
 http://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
