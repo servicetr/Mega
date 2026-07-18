@@ -153,29 +153,11 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/524409f049071fc64059fddff15721d
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/0KtzRU24.png",78. Vizon Spor 2
 https://stream41.radyotelekom.com.tr/stream/m3u8/ceafea2ee37dc725fa450315e7bc98fc/ceafea2ee37dc725fa450315e7bc98fc.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/2193/index.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_ftezFyAPOJq.png",79. Star Sports
+https://stream41.radyotelekom.com.tr/stream/m3u8/5729b1d2ad7197f4ac4272c2e32aedff/5729b1d2ad7197f4ac4272c2e32aedff.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/16044/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/K3Wpy0UOx.png",81. Arena Sport 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7263/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/v0TwQ1es.png",82. Arena Sport 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7264/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png",83. Arena Sport 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7265/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TOLcI7kmuGr4.png",84. Arena Sport 4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7266/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/AgTQw.png",85. Arena Sport 5
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7267/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/xuye7XqiS3N.png",86. Arena Sport 6
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7268/index.m3u8
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/07/18/EfQ7uD.png",80. NT Spor
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/11.png",87. TRT Spor
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=849huotrcz66&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
@@ -183,20 +165,8 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=849huotr
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi-2.png",88. A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",91. TR Spor
-https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_ftezFyAPOJq.png",92. Star Sports
-https://stream41.radyotelekom.com.tr/stream/m3u8/5729b1d2ad7197f4ac4272c2e32aedff/5729b1d2ad7197f4ac4272c2e32aedff.m3u8
-
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",94. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="http://epg.one/img2/4536.png",95. Sport Klub 1 HD 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7269/index.m3u8
-
-#EXTINF:-1 group-title="Spor" tvg-logo="http://epg.one/img2/4537.png", 96. Sport Klub 2 HD 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7270/index.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
