@@ -115,7 +115,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/258504e0830fbd014cae1e85a76a23b
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/FSvcasfoWLqt.png",60. TV 100
-https://keban.ecanlitvizle.live/tv100.m3u8?tkn=2Y6rS_1tWfEwfkzfu3GatA&tms=1784672995&hst=www.ecanlitvizle.live&ip=78.173.13.63&utkn=59e0986db36d43f64123c523ea3cf676&ch=tv-100-canli
+https://dsmartgo-live.ercdn.net/tv100/tv100_1080p.m3u8?userid=ed264943&rid=220465187f95fed310fbfc37c6ee5747&st=Q6_K9Wuptb7PWVuy7AhapQ&e=1784673288
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TEilURFztr.png",61. Star Haber 24
 https://live01.iha.tv/webabone/live2/chunks.m3u8
