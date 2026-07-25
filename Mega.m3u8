@@ -264,6 +264,9 @@ https://live.euromediacenter.com/trakyaturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/otEaO.png",165. Erciş TV
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",166. Kanal T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
 https://edge1.taksimbilisim.com/iceltv/bant1/chunks.m3u8
 
@@ -275,9 +278,6 @@ https://2.rtmp.org/tv217/yayin.stream/chunklist_w93444513.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/0CF638xSwZUy.png",174. BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",175. Kanal T
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Un0zi.png",183. TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
