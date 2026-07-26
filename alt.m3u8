@@ -111,7 +111,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/5729b1d2ad7197f4ac4272c2e32aedf
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/07/18/EfQ7uD.png",80. NT Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",94. Trace Sports
+#EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",88. İdman TV
+http://str.yodacdn.net/idmantele/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",99. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
