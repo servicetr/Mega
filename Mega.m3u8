@@ -115,7 +115,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/258504e0830fbd014cae1e85a76a23b
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/FSvcasfoWLqt.png",60. TV 100
-https://stream41.radyotelekom.com.tr/stream/m3u8/953c6b1b185507ce7d80b8db6e18840e/953c6b1b185507ce7d80b8db6e18840e.m3u8
+https://cdn.filbox.com.tr/live/cmrt7rwwq00760ej25978kv7d/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TEilURFztr.png",61. Star Haber 24
 https://live01.iha.tv/webabone/live2/chunks.m3u8
