@@ -31,13 +31,13 @@ http://nextiptv.pro:8080/yasarp/palaz07@/245
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/3.png",24. Show TV
-https://cdn.filbox.com.tr/live/cmrt7e8zh006q0ej2nk1vtuup/index.m3u8
+https://euromediacenter.com/show-tv-6192-6192.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/1.png",25. Star TV
 https://cdn.filbox.com.tr/live/cms32ar8k0001awcc1ekg9mjv/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/4.png",27. ATV
-https://cdn.filbox.com.tr/live/cms32ar9y0002awcc9gr901c7/index.m3u8
+https://euromediacenter.com/atv-147-147.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/10.png",28. Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -242,6 +242,9 @@ https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",166. Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/31/E8IIeZ.png",167. Kanal Özgün
+https://live.euromediacenter.com/kanalozguntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg578T.png",170. Karadeniz TV
 https://tv.cemtv.net:19360/karadeniztv/karadeniztv.m3u8
