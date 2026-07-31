@@ -243,6 +243,9 @@ https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",166. Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
 
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg578T.png",170. Karadeniz TV
+https://tv.cemtv.net:19360/karadeniztv/karadeniztv.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
 https://edge1.taksimbilisim.com/iceltv/bant1/chunks.m3u8
 
@@ -338,6 +341,21 @@ http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd332.png",302. Star Cartoons
 https://stream41.radyotelekom.com.tr/stream/m3u8/e6ddbe61b4a7b2cf1ad5a7a9ee994787/e6ddbe61b4a7b2cf1ad5a7a9ee994787.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5RoC.png",303. S Toons
+https://cdn.filbox.com.tr/live/cms4tm6kc00104cccb1icivq3/index.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",304. Carton Network
+https://cdn.filbox.com.tr/live/cms4tm6a9000t4ccciymzv4qe/index.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5P87.png",305. TRT Çocuk
+https://cdn.filbox.com.tr/live/cmrhl94q0001bpowknq4ymeol/index.m3u8
+
+3#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5xUo.png",307. Minika GO
+https://cdn.filbox.com.tr/live/cms4tm68t000s4ccc5wbw7qx3/index.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5VRh.png",304. Minika Çocuk
+https://cdn.filbox.com.tr/live/cms4tm6bp000u4cccquyxmqdc/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
