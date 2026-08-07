@@ -72,10 +72,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/14c6566d2ff140856511fba7c84da2d
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3mjQ.png",43. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3D03.png",44. Cine 5 TV
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee36pK.png",44. Cine 5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",45. Cine 5 HD
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3t6L.png",45. Cine 5 HD
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",46. Cine 6 
@@ -141,7 +141,7 @@ https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",76. Cem TV 
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/0KtzRU24.png",78. Vizon Spor 2
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee39vc.png",78. Vizon Spor 2
 https://stream41.radyotelekom.com.tr/stream/m3u8/ceafea2ee37dc725fa450315e7bc98fc/ceafea2ee37dc725fa450315e7bc98fc.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_ftezFyAPOJq.png",79. Star Sports
