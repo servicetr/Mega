@@ -408,9 +408,6 @@ http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8pYqaL7vh_2V.png",302. Star Çocuk
 https://stream41.radyotelekom.com.tr/stream/m3u8/e6ddbe61b4a7b2cf1ad5a7a9ee994787/e6ddbe61b4a7b2cf1ad5a7a9ee994787.m3u8
 
-#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5RoC.png",303. S Toons
-https://cdn.filbox.com.tr/live/cms4tm6kc00104cccb1icivq3/index.m3u8
-
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",304. Carton Network
 https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1437501202.m3u8?hash=70a569c7250089de6277cc671dfcf46e
 
@@ -422,6 +419,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5VRh.png",308. Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5RoC.png",309. S Toons
+https://cdn.filbox.com.tr/live/cms4tm6kc00104cccb1icivq3/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
