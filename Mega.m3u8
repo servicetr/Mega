@@ -136,7 +136,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PWLQ.png",53. Cine 7 Dizi
-http://162.212.179.32/akamaissh101/ssh101/cine5_turk/chunks.m3u8
+http://162.212.179.32/akamaissh101/ssh101/teber_tv3/playlist.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3d4n.png",60. TV 100
 http://europe77.xyz:2095/live/sevgul49/nFSNas21UA/120666.m3u8
