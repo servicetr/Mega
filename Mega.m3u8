@@ -105,10 +105,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/14c6566d2ff140856511fba7c84da2d
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Eelkr1.png",41. Star Horror
 https://stream41.radyotelekom.com.tr/stream/m3u8/286fca0ed25fe5df9d413c06194cc41d/286fca0ed25fe5df9d413c06194cc41d.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3mjQ.png",43. Cine 1
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3mjQ.png",44. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee36pK.png",44. Cine 5 TV
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee36pK.png",45. Cine 5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",46. Cine 6 
@@ -116,15 +116,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/fed5c9d211ff117aff5e6bf634ee6d7
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8Lxjy.png",47. Cine 7
 http://162.212.179.32/akamaissh101/ssh101/cine_7/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8L6Wb.png",48. Cine 7 Plus
-http://162.212.179.32/akamaissh101/ssh101/cine5+/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8LFY1.png",49. Cine 7 Star
-http://162.212.179.32/akamaissh101/ssh101/star1/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8Pf1M.png",50. Cine 7 Türk
-http://162.212.179.32/akamaissh101/ssh101/cine5_turk/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",51. Yansıma Sinema
 https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
