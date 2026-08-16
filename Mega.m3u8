@@ -198,11 +198,11 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=849ihjbnv870&app=
 #EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi-4.png",86. Sıfır Spor
 http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/16/E5T4XI.png",87. Sport TV 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/16/E5T4XI.png",88. Sport TV 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",89. İdman TV
-http://flussonic.izone.az:80/idmanaz/mono.m3u8
+https://az.cehennem.workers.dev/index.m3u8?ID=18
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",90. CBC Sport
 http://flussonic.izone.az:80/cbcsporthd/mono.m3u8
@@ -215,6 +215,9 @@ https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/2.png",101. A2
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/13/E0APBK.png",102. Show Max
+https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1786642117&st=7dP9PNNS7ysq1W57uzKr2g&tv=1
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/4.png",104. TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8a18hjxo3br1&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
@@ -403,7 +406,7 @@ http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
 https://stream41.radyotelekom.com.tr/stream/m3u8/e6ddbe61b4a7b2cf1ad5a7a9ee994787/e6ddbe61b4a7b2cf1ad5a7a9ee994787.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",304. Carton Network
-https://cdn.filbox.com.tr/live/cms4tm6a9000t4ccciymzv4qe/index.m3u8
+https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5P87.png",305. TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8
@@ -436,7 +439,7 @@ https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/jOI2a.png",326. Tivi 16
-https://streams.uzunmuhalefet.com/stream/96ead36d-cf4a-43e0-a407-ce120932c95d.m3u8
+https://tv156.radyotelekom.com.tr:3785/stream/play.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/AyGOSY6Chsu0.png",327. NR 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
@@ -484,7 +487,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",512. İçtimal TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+https://az.cehennem.workers.dev/index.m3u8?ID=8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",513. Az TV
 https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
