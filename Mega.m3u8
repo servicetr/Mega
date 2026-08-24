@@ -240,8 +240,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/42af5e6ded54bbe76bdd7d6f6abbc3d
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/01/wUvvf3.png",126. DocuBox
 https://stream41.radyotelekom.com.tr/stream/m3u8/356df94f1b76624fa408de9a70d127c6/356df94f1b76624fa408de9a70d127c6.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PDm3.png",128. Cine 7 Wild
-http://162.212.179.32/akamaissh101/ssh101/teber_tv6/chunks.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/24/EtHsW2.png",128. Teber Wild
+http://162.212.179.32/akamaissh101/ssh101/teber_tv5/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
