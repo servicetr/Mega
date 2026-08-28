@@ -339,9 +339,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/bc0341cd8fa182bba5322b8d53da683
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/8pYqaL7vh_2V.png",302. Star Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/0.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/26/ExoUyh.png,303. Max Animasyon
-https://resmim.net/cdn/2026/08/26/ExoUyh.png
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",304. Carton Network
 https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
 
@@ -357,8 +354,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5RoC.png",309. S Toons
 https://cdn.filbox.com.tr/live/cms4tm6kc00104cccb1icivq3/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PXvH.png", 310. Cine 7 Çocuk
-http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/26/ExoUyh.png,310. Max Animasyon
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxnimasyon/playlist.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",315. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
