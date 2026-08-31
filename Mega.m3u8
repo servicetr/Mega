@@ -258,6 +258,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d75
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",125. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/42af5e6ded54bbe76bdd7d6f6abbc3d3/42af5e6ded54bbe76bdd7d6f6abbc3d3.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",126. DocuBox
+https://dsmartgo-live.ercdn.net/docubox/docubox_1080p.m3u8?userid=ed264943&rid=b07d6ddf2db05d66a52be234262bac72&st=KDtDSm8bGoKL7b9BBON8Sg&e=1788230360
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVboUq.png",127. Zem Belgesel 
 http://zemtv.duckdns.org/Belgeselim/live/index.m3u8
 
