@@ -133,7 +133,7 @@ http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
 https://panel.5gtvhosting.com:2020/hls/karadeniztv/karadeniztv.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3Z4K.png",54. Ekol TV
-https://dsmartgo-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8?userid=ed264943&rid=e352cd02e5cace4fbba4d84ce7ed5363&st=qTqMfloZMkS7mMs0TVYNQQ&e=1788255611
+https://dsmartgo-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8?userid=ed264943&rid=92fbb7fd69ac3fc71c7e7f60e4cc5be9&st=x-kD1eLN3k9ZnoaVJp5dig&e=1788295540
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/22/E4rMe3.png",55. Teleon 
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
@@ -262,7 +262,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d75
 https://stream41.radyotelekom.com.tr/stream/m3u8/42af5e6ded54bbe76bdd7d6f6abbc3d3/42af5e6ded54bbe76bdd7d6f6abbc3d3.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",126. DocuBox
-https://dsmartgo-live.ercdn.net/docubox/docubox_1080p.m3u8?userid=ed264943&rid=8ea74c03571047909f047cf38d72e7d1&st=fE2FPMv-gDqjABZS-DqX-A&e=1788254962
+https://dsmartgo-live.ercdn.net/docubox/docubox_1080p.m3u8?userid=ed264943&rid=26b7125eb139dff1809f8ccf57fb5e67&st=J9iNLFGpMyTokf7rDuDnKw&e=1788295650
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVboUq.png",127. Zem Belgesel 
 http://zemtv.duckdns.org/Belgeselim/live/index.m3u8
