@@ -276,8 +276,8 @@ https://dsmartgo-live.ercdn.net/docubox/docubox_1080p.m3u8?userid=ed264943&rid=3
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVboUq.png",127. Zem Belgesel 
 http://zemtv.duckdns.org/Belgeselim/live/index.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/24/EtHsW2.png",128. Teber Wild
-http://162.212.179.32/akamaissh101/ssh101/teber_tv5/chunks.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/06/EhA78k.png",128. Teber Wild
+http://162.212.179.32/akamaissh101/ssh101/teber_6/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
