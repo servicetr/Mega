@@ -399,6 +399,9 @@ http://zemtv.duckdns.org/Cocuklar/live/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/26/ExoUyh.png,304. Max Animasyon
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxnimasyon/playlist.m3u8
 
+#EXTINF:-1 group-title="Çocuk & Series" tvg-logo="https://resmim.net/cdn/2026/09/06/EhA691.png",305. Tebertürk Çocuk
+http://162.212.179.32/akamaissh101/ssh101/teber_5/chunks.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/30/Eg5hTM.png",310. Carton Network
 https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
 
