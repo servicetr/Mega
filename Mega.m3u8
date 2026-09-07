@@ -283,7 +283,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d75
 https://stream41.radyotelekom.com.tr/stream/m3u8/42af5e6ded54bbe76bdd7d6f6abbc3d3/42af5e6ded54bbe76bdd7d6f6abbc3d3.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVOtKb.png",126. DocuBox
-https://dsmartgo-live.ercdn.net/docubox/docubox_1080p.m3u8?userid=ed264943&rid=38609a24cc25c164ff1ba3ffd745011b&st=HGJZLzUNS38dlmJitk2Y_A&e=1788720260
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVboUq.png",127. Zem Belgesel 
 http://zemtv.duckdns.org/Belgeselim/live/index.m3u8
