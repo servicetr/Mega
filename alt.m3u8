@@ -195,9 +195,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8a18hjxo3br1&app=bf58
 #EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",107. Cem TV 
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVtbLQ.png",115. Sony Cine
-https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbRTR.png",117. Zem Aksiyon 
 http://zemtv.duckdns.org/Aksiyoncu/live/index.m3u8
 
@@ -465,28 +462,52 @@ https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZf7C.png",340. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",505. MMN Movies
-http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlZv3.png",500. FilmBox Comedy
+https://stream41.radyotelekom.com.tr/stream/m3u8/41a18119492519060112c153e7949af9/41a18119492519060112c153e7949af9.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E598Z7.png",506. BizTV Cinema
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlm77.png",501. FilmBox Festival
+https://stream41.radyotelekom.com.tr/stream/m3u8/563bb0ac12ea889824b848d250bca58d/563bb0ac12ea889824b848d250bca58d.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E593Aq.png",507. Biz TV
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlS6Q.png",502. FilmBox Emotion
+https://stream41.radyotelekom.com.tr/stream/m3u8/ecb9c03ff28ff0e10d19afd7df59f6fc/ecb9c03ff28ff0e10d19afd7df59f6fc.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSUL8.png",508. BBC Series
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAldvI.png",503. FilmBox Love & Crime
+https://stream41.radyotelekom.com.tr/stream/m3u8/88e713f440de20cef5a29837d61df804/88e713f440de20cef5a29837d61df804.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",509. FX Movies
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlDpH.png",504. FilmBox Hits
+https://stream41.radyotelekom.com.tr/stream/m3u8/b45c115342ec75fddc4f3869c34a0b05/b45c115342ec75fddc4f3869c34a0b05.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/01/EVtbLQ.png",115. Sony Cine
+https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlYPx.png",506. Sony One Action
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/400a6f04-a0b4-4b93-95a1-71cdec6896f9/0.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlobF.png",507. Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",508. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZTLL.png",511. İnto Crime
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",512. MMN Movies
+http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E598Z7.png",513. BizTV Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E593Aq.png",514. Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSUL8.png",515. BBC Series
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZTLL.png",516. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",512. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",517. İçtimal TV
 https://az.cehennem.workers.dev/index.m3u8?ID=8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",513. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",518. Az TV
 https://str.yodacdn.net/azertv/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
