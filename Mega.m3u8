@@ -252,9 +252,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8a18hjxo3br1&app=bf58
 #EXTINF:-1 group-title="Yerel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",107. Cem TV 
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/01/EVtbLQ.png",115. Sony Cine
-https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbsrj.png",116. Zem Sinema 
 http://zemtv.duckdns.org/ZEMTV/live/index.m3u8
 
@@ -549,10 +546,16 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/620e996539ca5ba2eb7d46c8a18cc5e
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlDpH.png",504. FilmBox Hits
 https://stream41.radyotelekom.com.tr/stream/m3u8/b45c115342ec75fddc4f3869c34a0b05/b45c115342ec75fddc4f3869c34a0b05.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/01/EVtbLQ.png",505. Sony Cine
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMgzi.png",505. Sony Channel
+http://45.190.28.50/SONY_HD/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMlKk.png",505. Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMHI2.png",507. Sony Cine
 https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlYPx.png",506. Sony One Action
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMCX6.png",506. Sony Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/400a6f04-a0b4-4b93-95a1-71cdec6896f9/0.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlobF.png",507. Filmax
