@@ -549,40 +549,40 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/b45c115342ec75fddc4f3869c34a0b0
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMgzi.png",505. Sony Channel
 http://45.190.28.50/SONY_HD/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMlKk.png",505. Sony Movies
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMlKk.png",506. Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMHI2.png",507. Sony Cine
 https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMCX6.png",506. Sony Action
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EIMCX6.png",508. Sony Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/400a6f04-a0b4-4b93-95a1-71cdec6896f9/0.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlobF.png",507. Filmax
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlobF.png",510. Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",508. FX Movies
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",511. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",512. MMN Movies
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",515. MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E598Z7.png",513. BizTV Cinema
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E598Z7.png",516. BizTV Cinema
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E593Aq.png",514. Biz TV
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E593Aq.png",517. Biz TV
 https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSUL8.png",515. BBC Series
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSUL8.png",518. BBC Series
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZTLL.png",516. İnto Crime
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZTLL.png",519. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",517. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",520. İçtimal TV
 https://sivrice.tv.vin/ictimaitv.m3u8?tkn=DPrmE0zfX0KvGSgyOXnPTw&tms=1788723602&hst=tv.vin&ip=78.173.4.60&utkn=8c7c6ee15ecb51e94c718ee31a6249f2&ch=ictimai-tv
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",518. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",521. Az TV
 https://hatun.ecanlitvizle.live/aztv.m3u8?tkn=958Zz1o1n88hy2nEVKS-iw&tms=1788807480&hst=www.ecanlitvizle.live&ip=78.173.4.60&utkn=8c7c6ee15ecb51e94c718ee31a6249f2&ch=az-tv-azerbaycan-tv-izle
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
