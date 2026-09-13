@@ -324,6 +324,9 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EENavD.png",182. TV 52
 https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",186. Simvol TV 
+https://stream41.radyotelekom.com.tr/stream/m3u8/8415c530a751a25c4392bb8ddd0a3a19/8415c530a751a25c4392bb8ddd0a3a19.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/26/EHbVR8.png",189. TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/mt_0.m3u8
 
@@ -429,8 +432,8 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://resmim.net/cdn/2026/08/17/E59jqW.png",323. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E59HGM.png",324. Biz TV Müzik
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/11/EJ3jsZ.png",324. Televole TV
+https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E59KOc.png",325. Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -459,20 +462,20 @@ https://dengetv.ozelip.com:3143/live/dengelive.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZf7C.png",340. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/08/17/E59HGM.png",341. Biz TV Müzik
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlZv3.png",500. FilmBox Comedy
 https://stream41.radyotelekom.com.tr/stream/m3u8/41a18119492519060112c153e7949af9/41a18119492519060112c153e7949af9.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlm77.png",501. FilmBox Festival
-https://stream41.radyotelekom.com.tr/stream/m3u8/563bb0ac12ea889824b848d250bca58d/563bb0ac12ea889824b848d250bca58d.m3u8
+https://webtvstream.bhtelecom.ba/hls9/filmbox_arthouse_1200.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlS6Q.png",502. FilmBox Emotion
-https://stream41.radyotelekom.com.tr/stream/m3u8/ecb9c03ff28ff0e10d19afd7df59f6fc/ecb9c03ff28ff0e10d19afd7df59f6fc.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAldvI.png",503. FilmBox Love & Crime
-https://stream41.radyotelekom.com.tr/stream/m3u8/88e713f440de20cef5a29837d61df804/88e713f440de20cef5a29837d61df804.m3u8
+https://webtvstream.bhtelecom.ba/hls7/filmbox_extra_1200.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/07/EAlDpH.png",504. FilmBox Hits
-https://stream41.radyotelekom.com.tr/stream/m3u8/b45c115342ec75fddc4f3869c34a0b05/b45c115342ec75fddc4f3869c34a0b05.m3u8
+https://webtvstream.bhtelecom.ba/hls7/filmbox_premium_1200.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/01/EVtbLQ.png",505. Sony Cine
 https://stream41.radyotelekom.com.tr/stream/m3u8/4d92c1ca36ccd8b7cc035103a760c1bd/4d92c1ca36ccd8b7cc035103a760c1bd.m3u8
